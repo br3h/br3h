@@ -1,0 +1,14 @@
+{
+  "name": "br3h-profile",
+  "private": true,
+  "type": "module",
+  "description": "The br3h GitHub profile and its public-data SVG generators.",
+  "engines": { "node": ">=24.12.0" },
+  "scripts": {
+    "generate:visuals": "node scripts/generate-visuals.ts",
+    "generate:pulse": "node scripts/generate-pulse.ts",
+    "generate:activity": "node scripts/generate-activity.ts",
+    "test": "node --test tests/profile.test.ts",
+    "verify": "node scripts/verify.ts"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "id": "TG-01",
+      "name": "ToolGraph",
+      "repository": "br3h/toolgraph",
+      "status": "PUBLIC SOURCE",
+      "summary": "Visual MCP tool graphs, schema compatibility checks, and TypeScript / Python code generation.",
+      "focus": "Developer tooling / automation",
+      "ciWorkflow": "ci.yml",
+      "evidence": [
+        "packages/schema-core/src/compat.ts",
+        "packages/codegen/src/typescript.ts",
+        "packages/codegen/src/python.ts",
+        "packages/mcp-client/src/ssrf.adversarial.test.ts",
+        "supabase/tests/rls.test.ts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "account": "br3h",
+  "mode": "BUILDING",
+  "channel": "GITHUB",
+  "activityWeeks": 12,
+  "recentDays": 90,
+  "excludeActivityRepositories": ["br3h"]
+}
