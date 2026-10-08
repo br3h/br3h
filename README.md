@@ -65,7 +65,7 @@
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="generated/pulse.svg#static">
   <source media="(prefers-reduced-motion: reduce)" srcset="generated/pulse-light.svg#static">
   <source media="(prefers-color-scheme: dark)" srcset="generated/pulse.svg">
-  <img src="generated/pulse-light.svg" width="100%" alt="10 public repositories. 22 unique public default-branch br3h-attributed commits in 90 days. Latest default-branch update br3h/toolgraph, 2026-09-02. Detected languages: TypeScript, PLpgSQL, JavaScript, CSS, Shell. Synced 2026-10-07T13:26:57.641Z.">
+  <img src="generated/pulse-light.svg" width="100%" alt="10 public repositories. 22 unique public default-branch br3h-attributed commits in 90 days. Latest default-branch update br3h/toolgraph, 2026-09-02. Detected languages: TypeScript, PLpgSQL, JavaScript, CSS, Shell. Synced 2026-10-08T13:32:57.122Z.">
 </picture>
 
 <sub><a href="https://github.com/br3h/toolgraph/commit/14dcc9fa00d1481203379ca4e5ff9ed1b9f19263">Latest update / 2026-09-02</a> · 22 scoped commits / 90 days · <a href="generated/pulse.json">Full dated snapshot</a></sub>
