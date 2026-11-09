@@ -78,7 +78,7 @@
   <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="generated/activity.svg#static">
   <source media="(prefers-reduced-motion: reduce)" srcset="generated/activity-light.svg#static">
   <source media="(prefers-color-scheme: dark)" srcset="generated/activity.svg">
-  <img src="generated/activity-light.svg" width="100%" alt="22 unique br3h-authored commits in twelve complete UTC weeks from 2026-08-10 to 2026-11-02, end exclusive. Weekly counts oldest first: 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0. Public owned default branches only; forks, archived repositories and the profile excluded. Not the complete GitHub contribution calendar. Synced 2026-11-02T16:32:23.408Z.">
+  <img src="generated/activity-light.svg" width="100%" alt="22 unique br3h-authored commits in twelve complete UTC weeks from 2026-08-17 to 2026-11-09, end exclusive. Weekly counts oldest first: 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0. Public owned default branches only; forks, archived repositories and the profile excluded. Not the complete GitHub contribution calendar. Synced 2026-11-09T16:50:51.181Z.">
 </picture>
 
 <sub>Complete UTC weeks · partial week excluded · public default branches / unique SHAs · <a href="generated/activity.json">Scope + weekly data</a></sub>

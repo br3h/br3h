@@ -1,8 +1,8 @@
 {
-  "syncedAt": "2026-11-02T16:32:23.408Z",
+  "syncedAt": "2026-11-09T16:50:51.181Z",
   "scope": "br3h-attributed author commits on owned public default branches; forks, archived repos and profile excluded; unique SHAs; committer dates in UTC",
-  "start": "2026-08-10",
-  "endExclusive": "2026-11-02",
+  "start": "2026-08-17",
+  "endExclusive": "2026-11-09",
   "repositories": [
     "br3h/myprograms",
     "br3h/ngn-hacks",
@@ -13,10 +13,6 @@
     "br3h/toolgraph"
   ],
   "weeks": [
-    {
-      "start": "2026-08-10",
-      "commits": 0
-    },
     {
       "start": "2026-08-17",
       "commits": 0
@@ -59,6 +55,10 @@
     },
     {
       "start": "2026-10-26",
+      "commits": 0
+    },
+    {
+      "start": "2026-11-02",
       "commits": 0
     }
   ],
